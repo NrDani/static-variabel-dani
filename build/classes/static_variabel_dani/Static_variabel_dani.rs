@@ -1,0 +1,2 @@
+static_variabel_dani.Static_variabel_dani
+static_variabel_dani.Display
